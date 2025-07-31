@@ -63,6 +63,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat\&logo=microsoft-sql-server\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 #### Tools & Platforms
 
