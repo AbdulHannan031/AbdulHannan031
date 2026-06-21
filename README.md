@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulHannan031/AbdulHannan031/main/Make%20your%20README.png" alt="Abdul Hannan — banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdul Hannan</h1>
 
 <p align="center">
@@ -89,7 +93,7 @@ I'm a **Full Stack Developer & AI Engineer** from **Pakistan** who loves turning
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulHannan031&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHannan031&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
